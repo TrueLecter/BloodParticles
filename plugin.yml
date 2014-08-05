@@ -1,0 +1,5 @@
+name: Blood
+author: TrueLecter
+version: 0.1
+description: Adds Blood
+main: truelecter.blood.Blood
