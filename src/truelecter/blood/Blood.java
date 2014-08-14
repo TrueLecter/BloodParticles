@@ -35,6 +35,7 @@ public class Blood extends JavaPlugin implements Listener {
 		if (set.allows(DefaultFlag.PVP))
 			return true;
 		return false;
+		
 	}
 
 	public void onEnable() {
